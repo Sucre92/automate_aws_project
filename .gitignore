@@ -1,0 +1,6 @@
+.vscode
+terrform.tfvars
+.DS_Store
+.terraformrc
+terraform.rc
+.tfvars
